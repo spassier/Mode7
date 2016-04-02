@@ -1,1 +1,1 @@
-MODE7 Engine
+SNES Mode-7 Engine
